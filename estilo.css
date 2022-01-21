@@ -1,0 +1,51 @@
+#principal{
+	width: 900px;
+}
+
+#capa{
+	background: url(img/fundo.png);
+}
+
+#menu{
+	background-color: #D4D3BE;
+	font-size: 1.5em;
+	padding: 15px;
+}
+
+a{
+	text-decoration: none;
+}
+
+a:hover{
+	color: grey;
+}
+
+.item-menu{
+	font-weight: bold;
+	color: #50576D;
+	padding: 5px;
+}
+
+#conteudo{
+	background-color: white;
+	padding: 10px;
+}
+
+.imagem{
+	border: 10px solid #D1CFB8;
+}
+
+.titulo{
+	color: #969481;
+}
+
+#contato{
+	padding: 10px 0px;
+}
+
+#rodape{
+	font-size: 1.6em;
+	font-weight: bold;
+	text-align: center;
+	padding-top: 10px;
+}
